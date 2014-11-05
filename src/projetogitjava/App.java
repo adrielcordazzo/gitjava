@@ -18,6 +18,7 @@ public class App {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Utilizando o Git através do NetBeans!");
+        int n=30;
     }
     
 }
